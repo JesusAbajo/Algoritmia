@@ -1,0 +1,10 @@
+int query(int m){
+    int ret;
+    cout << '?' << m << '\n';
+    cin >> ret;
+    retun ret;
+}
+
+laboratorio 26/11/2021
+    -> vector escalera(parecido en divide y venceras) <-
+    era igual pero en una matriz -> no habia nada mas

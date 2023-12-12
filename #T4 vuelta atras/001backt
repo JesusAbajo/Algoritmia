@@ -1,0 +1,13 @@
+vuelta a tras != fuerza bruta
+    
+    ->la v.a. tiene soluciones parciales correctas
+
+    1 - Generar todas las soluciones
+    2 - Contar soluciones validas => igual(1) pero con un ret
+    3 - Optimizacion => mejor solucion modelo de reinas y mochila 
+            -Con parametros entrada salida, probamos y si la que tenemos es mejor la cambiamos
+                se gestiona con un if(mejor)
+                y hay que tener cuidado para poner valores iniciales depende si es maximizar o minimizar
+    TECNICA PARA LAS ANTERIORES => MARCAJE
+        hay que hacerlos asi porque son mejores 
+        3.1 - O con poda    
